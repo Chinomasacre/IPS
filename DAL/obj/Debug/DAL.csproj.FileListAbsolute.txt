@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\Ejercicio\DAL\bin\Debug\DAL.dll
+C:\Users\usuario\source\repos\Ejercicio\DAL\bin\Debug\DAL.pdb
+C:\Users\usuario\source\repos\Ejercicio\DAL\bin\Debug\Entyti.dll
+C:\Users\usuario\source\repos\Ejercicio\DAL\bin\Debug\Entyti.pdb
+C:\Users\usuario\source\repos\Ejercicio\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Ejercicio\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\usuario\source\repos\Ejercicio\DAL\obj\Debug\DAL.dll
+C:\Users\usuario\source\repos\Ejercicio\DAL\obj\Debug\DAL.pdb
