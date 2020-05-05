@@ -10,13 +10,15 @@ namespace Entyti
     {
         public string Numero { get; set; }
         public string Identificacion { get; set; }
+        public string Nombre { get; set; }
         public string Tipo { get; set; }
         public decimal SalarioDevengado { get; set; }
+        public DateTime Fecha { get; set; }
         public decimal ValorServicio { get; set; }
         public decimal Tarifa { get; set; }
         public decimal Tope { get; set; }
         public decimal CuotaModerada { get; set; }
-
+        
 
         public decimal calcularCuotaModerada()
         {
